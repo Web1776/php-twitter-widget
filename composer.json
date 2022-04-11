@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
-        "abraham/twitteroauth": "^0.7.2"
+        "php": ">=8.0",
+        "abraham/twitteroauth": "^4.0.0"
     },
     "autoload": {
         "psr-4": {
